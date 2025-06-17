@@ -1,6 +1,4 @@
-Here’s a professional and clear **README** for your project that explains the motivation, approach, and results, including how you transitioned from KMeans to CNN for dominant color prediction:
 
----
 
 # 🌈 Dominant Color Prediction from Natural Scene Images
 
